@@ -1,5 +1,17 @@
 ### Hey there, I'm  Ahmed Ansari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+### A Student, Developer & Tech Enthusiast
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+#### Talking about my personal stuff:
+
+- 🙋‍♂️ BSCS Undergrad [Sir Syed Univerity of Engineering and and Technology.]
+- 💻 The tech I'm interested Flutter, Firebase, Artificial Intelligence, AR, VR, Blockchain and Machine Learning
+- ✨ I'm learning Flutter, Artificial Intelligence and much more.
+- 🎮 Counter Strike Global Offensive & PUBG Mobile Player
+
+
 <div align="center">
 <p align="center">Let's connect!</p>
 
@@ -27,18 +39,6 @@
 </a>
 
 </div>
-
-
-### A Student, Developer & Tech Enthusiast
-
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
-#### Talking about my personal stuff:
-
-- 🙋‍♂️ BSCS Undergrad [Sir Syed Univerity of Engineering and and Technology.]
-- 💻 The tech I'm interested Flutter, Firebase, Artificial Intelligence, AR, VR, Blockchain and Machine Learning
-- ✨ I'm learning Flutter, Artificial Intelligence and much more.
-- 🎮 Counter Strike Global Offensive & PUBG Mobile Player
 
 
 ### Languages & Tools
