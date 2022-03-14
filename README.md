@@ -35,10 +35,10 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ BSCS Undergrad [Sir Syed Univerity of Engineering and and Technology.][dsccui]
-- 💻 The tech I'm interested Flutter/AWS etc.
-- ✨ I'm learning Flutter, Cyber Security etc.
-- 🎮 COD Modern Warfare 1 Multiplayer 
+- 🙋‍♂️ BSCS Undergrad [Sir Syed Univerity of Engineering and and Technology.]
+- 💻 The tech I'm interested Flutter, Firebase, Artificial Intelligence, AR, VR, Blockchain and Machine Learning
+- ✨ I'm learning Flutter, Artificial Intelligence and much more.
+- 🎮 Counter Strike Global Offensive & PUBG Mobile Player
 
 
 ### Languages & Tools
