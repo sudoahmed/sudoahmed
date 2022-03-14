@@ -1,14 +1,4 @@
 ### Hey there, I'm Ahmed Ansari
-
-### A Student, Developer & Tech Enthusiast
-
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
-#### Talking about my personal stuff: - 🙋‍♂️ BSCS Undergraduate [Sir Syed
-University of Engineering and Technology] - 💻 The tech I'm interested Flutter,
-Firebase, Artificial Intelligence, AR, VR, Blockchain, Computer Vision and
-Machine learning. - ✨ I'm learning Flutter, Artificial Intelligence and much
-more. - 🎮 Counter Strike Global Offensive & PUBG Mobile Player
 <img
   src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
   width="25px"
@@ -48,7 +38,15 @@ more. - 🎮 Counter Strike Global Offensive & PUBG Mobile Player
   </a>
 </div>
 
- ### Languages &
+### A Student, Developer & Tech Enthusiast
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+#### Talking about my personal stuff: - 🙋‍♂️ BSCS Undergraduate [Sir Syed
+University of Engineering and Technology] - 💻 The tech I'm interested Flutter,
+Firebase, Artificial Intelligence, AR, VR, Blockchain, Computer Vision and
+Machine learning. - ✨ I'm learning Flutter, Artificial Intelligence and much
+more. - 🎮 Counter Strike Global Offensive & PUBG Mobile Player ### Languages &
 Tools
 
 <code
@@ -143,9 +141,12 @@ Open Source Contributor from
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
       <img src="https://komarev.com/ghpvc/?username=sudoahmed" />
     </a>
-    <a href="https://github.com/SubhamRaoniar28?tab=followers"
+    <a href="https://github.com/sudoahmed?tab=followers"
       ><img
         src="https://img.shields.io/github/followers/sudoahmed?label=Followers&style=social"
         alt="GitHub Badge"
-    /></a> </b
-></b>
+    /></a>
+
+
+  </b></b
+>
