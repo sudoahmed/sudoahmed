@@ -1,17 +1,17 @@
-### Hey there, I'm  Arham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm  Ahmed Ansari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://www.instagram.com/_arham.javed/">
+<a href="https://www.instagram.com/ahmed.ansari007/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/arham-javed-9b4107216/">
+<a href="https://www.linkedin.com/in/sudoahmed/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/ArhamJaved26">
+<a href="https://www.facebook.com/ahmed.ansari.cyberlink">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
@@ -67,9 +67,9 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Arham's github stats](https://github-readme-stats.vercel.app/api?username=Arham07&theme=gotham)](https://github.com/Arham07/github-readme-stats)
+[![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=sudoahmed&theme=gotham)](https://github.com/sudoahmed/github-readme-stats)
 
-<a href="https://github.com/Arham07/github-readme-stats"><img alt="Arham07's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/sudoahmed/github-readme-stats"><img alt="sudoahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoahmed&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -77,19 +77,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Arham/github-readme-activity-graph"><img alt="Arham Javed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arham07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Arham/github-readme-activity-graph"><img alt="Arham Javed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudoahmed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-Open Source Contributor from <b>Pakistan<b> 💚 
 
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Arham07">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Arham07?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-[dsccui]: https://www.neduet.edu.pk/
-<!-- [profile]: https://mhmz.dev -->
