@@ -29,13 +29,13 @@
 </div>
 
 
-### A Student, Developer & Gamer
+### A Student, Developer & Tech Enthusiast
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ CSIT Undergrad [NED University][dsccui]
+- 🙋‍♂️ BSCS Undergrad [Sir Syed Univerity of Eng. and Tech.][dsccui]
 - 💻 The tech I'm interested Flutter/AWS etc.
 - ✨ I'm learning Flutter, Cyber Security etc.
 - 🎮 COD Modern Warfare 1 Multiplayer 
