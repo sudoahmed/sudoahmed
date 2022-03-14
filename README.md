@@ -35,7 +35,7 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ BSCS Undergrad [Sir Syed Univerity of Eng. and Tech.][dsccui]
+- 🙋‍♂️ BSCS Undergrad [Sir Syed Univerity of Engineering and and Technology.][dsccui]
 - 💻 The tech I'm interested Flutter/AWS etc.
 - ✨ I'm learning Flutter, Cyber Security etc.
 - 🎮 COD Modern Warfare 1 Multiplayer 
