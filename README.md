@@ -1,4 +1,4 @@
-### Hey there, I'm Ahmed Ansari
+### Hey there, I'm Muhammad Ahmad
 <img
   src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
   width="25px"
@@ -38,16 +38,14 @@
   </a>
 </div>
 
-### A Student, Developer & Tech Enthusiast
+### A Student, Developer & Gamer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-#### Talking about my personal stuff: - 🙋‍♂️ BSCS Undergraduate [Sir Syed
-University of Engineering and Technology] - 💻 The tech I'm interested Flutter,
-Firebase, Artificial Intelligence, AR, VR, Blockchain, Computer Vision and
-Machine learning. - ✨ I'm learning Flutter, Artificial Intelligence and much
-more. - 🎮 Counter Strike Global Offensive & PUBG Mobile Player ### Languages &
-Tools
+#### Talking about my personal stuff: - 🙋‍♂️ CSIT Undergrad [NED
+University][dsccui] - 💻 The tech I'm interested Flutter/AWS etc. - ✨ I'm
+learning Flutter, Cyber Security etc. - 🎮 COD Modern Warfare 1 Multiplayer ###
+Languages & Tools
 
 <code
   ><img
@@ -110,7 +108,7 @@ Tools
 <summary>📝 My GitHub Stats</summary>
 <br />
 
-[![Ahmed's github
+[![Arham's github
 stats](https://github-readme-stats.vercel.app/api?username=sudoahmed&theme=gotham)](https://github.com/sudoahmed/github-readme-stats)
 
 <a href="https://github.com/sudoahmed/github-readme-stats"
@@ -125,7 +123,7 @@ consists of and doesn't reflect experience or skill level.
 <br />
 <br />
 
-<a href="https://github.com/sudoahmed/github-readme-activity-graph"
+<a href="https://github.com/Arham/github-readme-activity-graph"
   ><img
     alt="Ahmed Ansari's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=sudoahmed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
@@ -141,12 +139,13 @@ Open Source Contributor from
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
       <img src="https://komarev.com/ghpvc/?username=sudoahmed" />
     </a>
-    <a href="https://github.com/sudoahmed?tab=followers"
+    <a href="https://github.com/SubhamRaoniar28?tab=followers"
       ><img
         src="https://img.shields.io/github/followers/sudoahmed?label=Followers&style=social"
         alt="GitHub Badge"
     /></a>
 
-
+    [dsccui]: https://www.neduet.edu.pk/
+    <!-- [profile]: https://mhmz.dev -->
   </b></b
 >
