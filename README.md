@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sudoahmed2001@gmail.com**
 
-- ⚡ Fun fact **I think programming is addictive and I can't live without doing with for more than week. I get withdrawal symptoms of xD**
+- ⚡ Fun fact **I think programming is addictive and I can't live without doing with for more than week. I get withdrawal symptoms of it xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
