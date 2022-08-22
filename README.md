@@ -20,9 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sudo_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudo_ahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudoahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudoahmed" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.ansari.cyberlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.ansari.cyberlink" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed.ansari007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed.ansari007" height="30" width="40" /></a>
+  
+or/master/src/images/icons/Social/instagram.svg" alt="ahmed.ansari007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
