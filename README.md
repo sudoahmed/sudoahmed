@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudoahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sudoahmed" /> </p>
 
 
-- 🔭 I’m currently working on [Project Ikhtiar](http://ikhtiar.pk/)
+- 🔭 I’m currently working on [AgriBot](http://www.t-robot.my/copy-of-automated-electrode-sorting-s)
 
 - 🌱 I’m currently learning **Flutter, Artificial Intelligence, AWS, AR, VR, Python and Machine Learning**
 
